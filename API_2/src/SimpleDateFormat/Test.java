@@ -20,11 +20,11 @@ public class Test {
         System.out.println(time0);
         System.out.println(time1);
 
+        // simpleDateFormat已经过时
         String dateStr = "2022-12-12 12:12:11";
         SimpleDateFormat sdf1 = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
         Date d2 = sdf1.parse(dateStr);
         System.out.println(d2);
-
 
     }
 }
