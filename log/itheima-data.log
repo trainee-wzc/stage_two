@@ -1,0 +1,8 @@
+2023-11-06 10:40:05.841 [main] INFO  LogBackTest - ------divide方法开始执行------
+2023-11-06 10:40:05.846 [main] DEBUG LogBackTest - 参数a：10
+2023-11-06 10:40:05.846 [main] DEBUG LogBackTest - 参数b：0
+2023-11-06 10:40:05.846 [main] ERROR LogBackTest - ------divide方法执行失败了哇------
+2023-11-06 10:42:22.644 [main] INFO  LogBackTest - ------divide方法开始执行------
+2023-11-06 10:42:22.648 [main] DEBUG LogBackTest - 参数a：10
+2023-11-06 10:42:22.648 [main] DEBUG LogBackTest - 参数b：0
+2023-11-06 10:42:22.648 [main] ERROR LogBackTest - ------divide方法执行失败了哇------

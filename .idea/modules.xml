@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/API_2/API_2.iml" filepath="$PROJECT_DIR$/API_2/API_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/API_3/API_3.iml" filepath="$PROJECT_DIR$/API_3/API_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm/Algorithm.iml" filepath="$PROJECT_DIR$/Algorithm/Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hospital_Demo/Hospital_Demo.iml" filepath="$PROJECT_DIR$/Hospital_Demo/Hospital_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IOstream/IOstream.iml" filepath="$PROJECT_DIR$/IOstream/IOstream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IOstream_2/IOstream_2.iml" filepath="$PROJECT_DIR$/IOstream_2/IOstream_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Junit-reflect-annotation-proxy-app/Junit-reflect-annotation-proxy-app.iml" filepath="$PROJECT_DIR$/Junit-reflect-annotation-proxy-app/Junit-reflect-annotation-proxy-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collection-map-stream-app/collection-map-stream-app.iml" filepath="$PROJECT_DIR$/collection-map-stream-app/collection-map-stream-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collection_app/collection_app.iml" filepath="$PROJECT_DIR$/collection_app/collection_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/final-exam/final-exam.iml" filepath="$PROJECT_DIR$/final-exam/final-exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mid_exam/mid_exam.iml" filepath="$PROJECT_DIR$/mid_exam/mid_exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/net-app/net-app.iml" filepath="$PROJECT_DIR$/net-app/net-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opp-app1/opp-app1.iml" filepath="$PROJECT_DIR$/opp-app1/opp-app1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opp-app2/opp-app2.iml" filepath="$PROJECT_DIR$/opp-app2/opp-app2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/properties-xml-log-app/properties-xml-log-app.iml" filepath="$PROJECT_DIR$/properties-xml-log-app/properties-xml-log-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread-app/thread-app.iml" filepath="$PROJECT_DIR$/thread-app/thread-app.iml" />
+    </modules>
+  </component>
+</project>
